@@ -39,19 +39,25 @@ Ensure that you buy the car at the location you intend to pick up. Working with 
 - [ ] Check for damage to black rocker panels
 - [ ] Check the tail light fit
 
-> - **Photo:** [tail light (passenger side) not flush with panel](https://imgur.com/aPzCKKG)
+> <img src="./assets/TeslaY-tail_light_misaligned.jpeg" alt="TeslaY-tail light misaligned" style="height: 100px; width:100px;">
+>
+> - **Photo:** [tail light (passenger side) not flush with panel](./assets/TeslaY-tail_light_misaligned.jpeg)
 > - **Fix:** not yet available
 
 - [ ] Check charging port fit (driver side)
 - [ ] Inspect the tail lights for condensation
 - [ ] Inspect the undercarriage, look for damage, missing screws, or screws that are sticking out
 
-> - **Photo:** [undercarriage screw found sticking out, not fully tightened](https://imgur.com/TozVn9I)
+> <img src="./assets/TeslaY-loose_undercarriage_screw.jpeg" alt="TeslaY-loose undercarriage screw" style="height: 100px; width:100px;">
+>
+> - **Photo:** [undercarriage screw found sticking out, not fully tightened](./assets/TeslaY-loose_undercarriage_screw.jpeg)
 > - **Fix:** requires a 10mm wrench; should you spot anything that needs attention ask the SC staff to inspect all screws and clips (they should've done it already)
 
 - [ ] Inspect all wheel wells. Each wheel well is fitted with noise dampener covers that are attached to the body with a combination of plastic pins (pushed in all the way) and metal threaded pins (sticking out) with plastic nuts. Confirm that all plastic pins are present (there are no empty holes) and all metal pins (2 in each front wheel well, 4 in each rear wheel well) are present and properly attached.
 
-> - **Photo:** [threaded pins with and without plastic nuts](https://imgur.com/6KqcVg4)
+> <img src="./assets/TeslaY-wheel_well_missing_plastic_nut.jpeg" alt="TeslaY-wheel well missing plastic nut" style="height: 100px; width:100px;">
+>
+> - **Photo:** [threaded pins with and without plastic nuts](./assets/TeslaY-wheel_well_missing_plastic_nut.jpeg)
 > - **Fix:** mobile service can fix it in minutes
 
 ### Unlocked
@@ -64,7 +70,9 @@ Ensure that you buy the car at the location you intend to pick up. Working with 
 - [ ] Verify that the charge port opens and closes
 - [ ] Verify that the rubber seal is properly attached to the bottom of all 4 doors.
 
-> - **Photo:** [rubber seal loose on driver door bottom](https://imgur.com/AodUDfg)
+> <img src="./assets/TeslaY-loose_door_seal.jpeg" alt="TeslaY-loose door seal" style="height: 100px; width:100px;">
+>
+> - **Photo:** [rubber seal loose on driver door bottom](./assets/TeslaY-loose_door_seal.jpeg)
 > - **Fix:** service center, replace rubber seal (Tesla calls it a "secondary seal")
 
 ## Interior
